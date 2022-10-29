@@ -31,6 +31,7 @@
 
 ## Краткая информация о данных
 [Ссылка на файл с данными на внешнем хранилище Google Disk](https://drive.google.com/file/d/1loBCLdQVZz-v-A7jSQHQOtjIl1h31CKE/view?usp=sharing)
+
 Файл с данными обменных курсов ExchangeRates.csv находится на Github.
   
 [к оглавлению](#оглавление)
